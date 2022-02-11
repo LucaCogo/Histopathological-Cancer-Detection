@@ -18,7 +18,7 @@ Created an algorithm to identify metastatic cancer in small image patches taken 
   * [GitHub](https://github.com/rconfa)
   * [LinkedIn](https://www.linkedin.com/in/riccardo-confalonieri-5250b0201/)
 
-#### Cogo Luca - Data Science Student @ University of Milano-Bicocca
+#### Cogo Luca - Computer Science Student @ University of Milano-Bicocca
   * l.cogo@campus.unimib.it
   * [GitHub](https://github.com/LucaCogo)
   * [LinkedIn](https://www.linkedin.com/in/luca-cogo)
