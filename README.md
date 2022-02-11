@@ -1,6 +1,5 @@
 <p float="left">
 
- <img src="https://github.com/rconfa/Histopathological-Cancer-Detection/blob/main/images/DSLogo.png" width = "500"/>
  <img src="https://github.com/rconfa/Histopathological-Cancer-Detection/blob/main/images/BicoccaLogo.png" width = "100" align="right"/>
 </p>
 <h2 align="center">Advanced Machine Learning project</h2>
